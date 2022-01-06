@@ -1,8 +1,14 @@
+```markdown
 Name : Dewa Nusantara MP
        Agi Lobita 
+```
+```markdown
 NIM : 1202190053
       1202190031
+```
+```markdown
 Kelas : IT 02-01
+```
 
 **Laporan 4**
 
